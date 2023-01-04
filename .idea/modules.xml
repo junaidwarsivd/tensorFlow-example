@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObjDetector.iml" filepath="$PROJECT_DIR$/.idea/modules/ObjDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ObjDetector.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
